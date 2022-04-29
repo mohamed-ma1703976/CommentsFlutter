@@ -1,0 +1,4 @@
+#Wed Apr 27 01:01:23 AST 2022
+base.0=/Users/mohamedhossam/Desktop/aswell/test_comment/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
